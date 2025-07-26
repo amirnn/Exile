@@ -5,3 +5,4 @@
 /build/
 /.cache/
 /conan/out/
+compile_commands.json
